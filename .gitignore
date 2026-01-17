@@ -41,6 +41,10 @@ ScaffoldingReadMe.txt
 *~
 CodeCoverage/
 
+.env
+GoodreadsImporter/
+.vs/
+
 # MSBuild Binary and Structured Log
 *.binlog
 
